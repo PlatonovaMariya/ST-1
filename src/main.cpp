@@ -1,4 +1,4 @@
-// Copyright 2022 NNTU-CS
+// Copyright 2024 Platonova Maria
 #include "alg.h"
 
 int main() {
